@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    padding:0;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,98,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+#input{
+    display: flex;
+    border: 2px solid white;
+    justify-content: space-between;
+    justify-content: center;
+    width: 200px;
+    padding: 1rem;
+    margin-top:250px;
+}
+#container{
+    color: white;
+    display: flex;
+    width: 300px;
+    margin: 0 auto;
+}
